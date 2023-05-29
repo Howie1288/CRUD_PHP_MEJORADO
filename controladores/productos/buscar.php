@@ -46,7 +46,7 @@ try {
                             <td><?= $key + 1 ?></td>
                             <td><?= $producto['PRODUCTO_NOMBRE'] ?></td>
                             <td><?= $producto['PRODUCTO_PRECIO'] ?></td>
-                            <td><a class="btn btn-warning w-100" href="/CRUD_PHP_mejorado/vistas/productos/modificar.php?producto_id=<?= $producto['PRODUCTO_ID']?>">Modificar</a></td>
+                            <td><a class="btn btn-warning w-100" href="/CRUD_PHP_MEJORADO/vistas/productos/modificar.php?producto_id=<?= $producto['PRODUCTO_ID']?>">Modificar</a></td>
                             <td><a class="btn btn-danger w-100" href="">Eliminar</a></td>
                         </tr>
                         <?php endforeach ?>
@@ -61,7 +61,7 @@ try {
         </div>
         <div class="row justify-content-center">
             <div class="col-lg-4">
-                <a href="/CRUD_PHP_mejorado/vistas/productos/buscar.php" class="btn btn-info w-100">Volver al formulario</a>
+                <a href="/CRUD_PHP_MEJORADO/vistas/productos/buscar.php" class="btn btn-info w-100">Volver al formulario</a>
             </div>
         </div>
     </div>
