@@ -15,10 +15,10 @@
                     </a>
                     <ul class="dropdown-menu bg-dark">
                         <li class="nav-item">
-                            <a class="nav-link" href="/crudphp18may2023/vistas/productos/index.php">Crear producto</a>
+                            <a class="nav-link" href="/CRUD_PHP_mejorado/vistas/productos/index.php">Crear producto</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="/crudphp18may2023/vistas/productos/buscar.php">Buscar producto</a>
+                            <a class="nav-link" href="/CRUD_PHP_mejorado/vistas/productos/buscar.php">Buscar producto</a>
                         </li>
                     </ul>
                 </li>
